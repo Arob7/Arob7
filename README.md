@@ -6,5 +6,5 @@ Here's what's going on..
 - 🌱 I’m currently learning Adobe and Sass
 - 👯 I’m looking to collaborate on EVERYTHING! 
 - 😄 Pronouns: She/Her
-- ⚡ When I'm not coding, I'm music lover, history nerd and foodie. 
+- ⚡ When I'm not coding, I'm a music lover, history nerd and foodie. 
 
