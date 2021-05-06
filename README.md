@@ -1,4 +1,4 @@
-### Hi there, I'm Arion!👋
+### Hi there, I'm Arion!👋 (PRONOUNCED ARE-REE-YON) 
 
 Here's what's going on..
 
@@ -6,5 +6,5 @@ Here's what's going on..
 - 🌱 I’m currently learning Sass
 - 👯 I’m looking to collaborate on EVERYTHING! 🤝
 - 😄 Pronouns: She/Her
-- ⚡ When I'm not coding, I'm listening to music, cooking or playing with my 8 year old bully. 🐶
+- ⚡ When I'm not coding, I'm listening to music/true crime podcasts, cooking or living my best life. 😎
 
